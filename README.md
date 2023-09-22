@@ -1,10 +1,11 @@
-<h3>What's up! 👋 I'm Emma</h3>
+<h3>Wassuuup, I’m Emma ☀️</h3>
 
-I'm a freelance Full Stack Engineer and teach about coding on the side
+👩🏼‍💻 Working as a freelance full-stack dev & web dev teacher 
 
-🐝 I also write newsletters for [HiveTracks](https://hivetracks.com)
+🐝 Also, I build stuff & write newsletters for [HiveTracks](www.hivetracks.com) #SaveTheBees
 
-💌 Write me a love letter at [emma@ruenzel.de](mailto:emma@ruenzel.de)
+📫 Write me a love letter at **emma@ruenzel.de**
 
-<h4>My Tech Stack</h4>
-Ruby on Rails, HTML & CSS/SCSS, JavaScript/Stimulus, Postgres, SQL
+<h3 align="left">Languages and Tools:</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=raspberrypi,ruby,html,css,js,postgres&perline=3)](https://skillicons.dev)
