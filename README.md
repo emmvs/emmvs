@@ -7,4 +7,4 @@ I'm a freelance Full Stack Engineer and teach about coding on the side
 💌 Write me a love letter at [emma@ruenzel.de](mailto:emma@ruenzel.de)
 
 <h4>My Tech Stack</h4>
-Ruby on Rails, HTML & CSS/SCSS, JavaScript, Postgres, SQL
+Ruby on Rails, HTML & CSS/SCSS, JavaScript/Stimulus, Postgres, SQL
