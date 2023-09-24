@@ -8,4 +8,4 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=ruby,rails,js,html,css,postgres,sqlite,figma,raspberrypi&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ruby,rails,js,html,css,postgres&perline=3)](https://skillicons.dev)
