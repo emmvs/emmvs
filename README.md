@@ -1,6 +1,6 @@
 <h3>Wassuuup, I’m Emma ☀️</h3>
 
-👩🏼‍💻 Working as a freelance full-stack dev & web dev teacher 
+👩🏼‍💻 Working as a freelance software engineer & web dev teacher 
 
 🐝 Also, I build stuff & write newsletters for [HiveTracks](www.hivetracks.com) #SaveTheBees
 
