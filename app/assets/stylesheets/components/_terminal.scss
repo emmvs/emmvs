@@ -1,0 +1,60 @@
+.terminal {
+  background: #000;
+  color: #c0c0c0; // default text color
+  font-family: 'Courier New', monospace;
+  padding: 20px;
+  border-radius: 5px;
+
+  .header {
+    display: flex;
+    padding-bottom: 10px;
+
+    .red-dot,
+    .yellow-dot,
+    .green-dot {
+      height: 15px;
+      width: 15px;
+      border-radius: 50%;
+      margin-right: 5px;
+    }
+
+    .red-dot {
+      background: #ff605c;
+    }
+
+    .yellow-dot {
+      background: #ffbd44;
+    }
+
+    .green-dot {
+      background: #00ca4e;
+    }
+  }
+
+  .content {
+    .ascii-art {
+      // ASCII art styles here
+    }
+
+    .command {
+      color: #ffffff;
+      padding: 3px 0;
+    }
+
+    .git {
+      color: #2c9cdb;
+    }
+
+    .git-branch {
+      color: #ff605c;
+    }
+
+    .directory {
+      color: #56f2e6;
+    }
+
+    .output {
+      padding: 3px 0;
+    }
+  }
+}
